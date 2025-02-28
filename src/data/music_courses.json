@@ -1,0 +1,114 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Coffee Brewing Basics",
+      "slug": "coffee-brewing-basics",
+      "description": "Learn the fundamentals of brewing the perfect cup of coffee.",
+      "price": 49.99,
+      "instructor": "James Coffee",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1541167760496-1628856ab772?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "duration": "4 weeks"
+    },
+    {
+      "id": 2,
+      "title": "Espresso Mastery",
+      "slug": "espresso-mastery",
+      "description": "Master the art of pulling the perfect espresso shot.",
+      "price": 99.99,
+      "instructor": "Emily Barista",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1514448553127-8c40a05d6dc4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "duration": "6 weeks"
+    },
+    {
+      "id": 3,
+      "title": "Latte Art Techniques",
+      "slug": "latte-art-techniques",
+      "description": "Learn how to create stunning latte art designs.",
+      "price": 79.99,
+      "instructor": "Michael Cappuccino",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1572449043416-55f4685c9bb5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "duration": "4 weeks"
+    },
+    {
+      "id": 4,
+      "title": "Home Coffee Roasting",
+      "slug": "home-coffee-roasting",
+      "description": "Learn the secrets of roasting coffee beans at home.",
+      "price": 129.99,
+      "instructor": "Sarah Roastmaster",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1519032758536-d1426e9e4432?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "duration": "8 weeks"
+    },
+    {
+      "id": 5,
+      "title": "Coffee Tasting & Cupping",
+      "slug": "coffee-tasting-cupping",
+      "description": "Develop your palate with professional coffee tasting techniques.",
+      "price": 69.99,
+      "instructor": "Tom Flavor",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1523945981460-6b245f3f8e74?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "duration": "5 weeks"
+    },
+    {
+      "id": 6,
+      "title": "Barista Training",
+      "slug": "barista-training",
+      "description": "Become a professional barista with hands-on training.",
+      "price": 149.99,
+      "instructor": "David Espresso",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1528901166007-3784c7dd3653?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "duration": "10 weeks"
+    },
+    {
+      "id": 7,
+      "title": "The Science of Coffee",
+      "slug": "science-of-coffee",
+      "description": "Explore the chemistry behind coffee extraction and flavor.",
+      "price": 89.99,
+      "instructor": "Nancy Chemex",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1541167760496-1628856ab772?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "duration": "6 weeks"
+    },
+    {
+      "id": 8,
+      "title": "Cold Brew & Nitro Coffee",
+      "slug": "cold-brew-nitro",
+      "description": "Learn how to make smooth cold brew and nitro coffee at home.",
+      "price": 79.99,
+      "instructor": "Chris Chilled",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1523755231516-e43fd2e8b3f9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "duration": "4 weeks"
+    },
+    {
+      "id": 9,
+      "title": "Coffee Business Essentials",
+      "slug": "coffee-business-essentials",
+      "description": "Start your own coffee business with expert guidance.",
+      "price": 199.99,
+      "instructor": "Sophia Beans",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1509131053278-0dca9e60f69d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "duration": "12 weeks"
+    },
+    {
+      "id": 10,
+      "title": "Sustainable Coffee Farming",
+      "slug": "sustainable-coffee-farming",
+      "description": "Discover sustainable practices for growing coffee.",
+      "price": 129.99,
+      "instructor": "George Greenbean",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1588416492015-fd30ba33bcf3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+      "duration": "10 weeks"
+    }
+  ]
+}
