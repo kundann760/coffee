@@ -22,7 +22,7 @@ export default function page() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100 p-6">
+    <div className="min-h-screen flex items-center justify-center bg-black p-6">
       <div className="bg-white shadow-lg rounded-lg p-8 max-w-lg w-full">
         <h2 className="text-2xl font-bold text-gray-900 mb-4">Contact Us</h2>
         {submitted ? (
