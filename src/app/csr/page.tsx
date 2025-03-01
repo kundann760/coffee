@@ -28,7 +28,7 @@ function Page() {
       }, 1000);
     };
     fetchTodoData();
-  }, []);
+  });
 
   return (
     <div className="min-h-screen py-12 pt-36 bg-black">
