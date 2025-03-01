@@ -16,7 +16,7 @@ const HeroSection = () => {
         </h1>
         <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
           Experience the rich aroma and comforting warmth of our handcrafted
-          coffee. Whether you're here for a quick espresso or a relaxing latte,
+          coffee. Whether you are here for a quick espresso or a relaxing latte,
           we brew every cup with passion. Join us and discover your new favorite
           blend.
         </p>
